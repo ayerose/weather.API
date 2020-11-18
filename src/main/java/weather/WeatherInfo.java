@@ -23,7 +23,7 @@ public class WeatherInfo
     
     public String  getTimestamp() {   // getters and setters da wir timestamp und temp auf private gesetzt haben
         return timestamp;
-    }
+    }  
     public String getTemperature() {
         return temperature;
     }
